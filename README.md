@@ -10,7 +10,7 @@ This project provides a minimal starter project structure for your next awesome 
 - Built with [Expo](https://expo.dev).
 
 
-## Sample Screens
+## Sample Screens 
 
 ### Products List
 ![Products List](./docs/productsList.png)
