@@ -12,7 +12,7 @@ This project provides a minimal starter project structure for your next awesome 
 
 ## Sample Screens 
 
-### Products List
+### Products List 
 ![Products List](./docs/productsList.png)
 
 ### Product Details
